@@ -14,7 +14,7 @@
 
 
 ## Hi there 👋
-# 🛠️ Hi, I'm [Your Name]  
+# 🛠️ Hi, I'm Ethan Wang.
 
 IT Systems Engineer | Linux & Network Ops | AI-assisted Automation  
 
